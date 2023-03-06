@@ -1,10 +1,10 @@
 # Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eƒüitiminde olu≈üturduƒüumuz ilk repo. ƒ∞√ßerisinde bir ader README dosyasƒ±, bir adet de index.html barƒ±ndƒ±rƒ±yor
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eƒüitiminde oluşturduğumuz ilk repo. İçerisinde bir ader README dosyası, bir adet de index.html barındırıyor
 
-## Installatiƒ±on
+## Installation
 
-√ñncelikle projeyi clonelayƒ±n.
+Öncelikle projeyi clonelayın.
 
 
 https://github.com/erhantopuz/kodluyoruzilkrepo.git 
@@ -13,7 +13,7 @@ https://github.com/erhantopuz/kodluyoruzilkrepo.git
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visural Studio Code Programınnda a√ßƒ±nƒ±z.
+Projeyi cloneladıktan sonra Visural Studio Code Programında açınız.
 
 Linux için:
 
@@ -21,8 +21,7 @@ Linux için:
 
 ## Contributing
 
-Pull requestler kabul edilir. B√ºy√ºk deƒüi≈üiklikler i√ßin, l√ºtfen √∂nce neyi deƒüi≈ütirmek istedinizi tartƒ±≈ümak i√ßin bir konu a√ßƒ±nƒ±z..
-
+Pull requestler kabul edili. büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
 ## License
 
