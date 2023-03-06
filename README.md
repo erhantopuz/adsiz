@@ -13,9 +13,9 @@ https://github.com/erhantopuz/kodluyoruzilkrepo.git
 
 ## Usage
 
-Projeyi cloneladƒ±ktan sonra Visural Studio Code Programƒ±nda a√ßƒ±nƒ±z.
+Projeyi cloneladıktan sonra Visural Studio Code Programınnda a√ßƒ±nƒ±z.
 
-Linux i√ßin:
+Linux için:
 
 
 
